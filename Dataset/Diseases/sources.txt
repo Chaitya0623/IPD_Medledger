@@ -1,0 +1,9 @@
+Data Sources: 
+- ourworldindata
+- data.gov.in
+- who
+
+Diseases: 
+- Covid-19
+- influenza
+- diarrhea: IHME, Global Burden of Disease Study (2019) – with minor processing by Our World in Data. “Diarrheal diseases death rate – IHME GBD – Age-standardized” [dataset]. IHME, Global Burden of Disease Study (2019) [original data]. Retrieved February 21, 2024 from https://ourworldindata.org/grapher/diarrheal-disease-death-rates
